@@ -1,5 +1,5 @@
 # Random-Strings
-This program generates random strings. You can choose the length of the strings, the number of generated strings, and if those strings include yoon.
+This program generates random strings. You can choose the length of the strings, the number of generated strings, and if those strings include yoon. There will be no 'ん' or 'っ' at the head of generated strings.
 # Need to install
 None
 # How to use
