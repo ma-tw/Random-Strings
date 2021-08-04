@@ -9,5 +9,5 @@ None
  Enter the numbers of strings.
  ## Length
  Enter the length of each strings. Yoon is counted as 1 character.
- ## Choose if the strings include yoon
+ ## Choose if the strings  yoon
  Yoon is the character which has a small character attached to itself, such as "きゃ." If you want to use it, type y. If not, type n.
